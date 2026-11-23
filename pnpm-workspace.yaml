@@ -1,0 +1,8 @@
+packages:
+  - "."
+minimumReleaseAge: 10080
+strictPeerDependencies: true
+storeDir: .cache/pnpm-store
+allowBuilds:
+  "@parcel/watcher": false
+  "@swc/core": false

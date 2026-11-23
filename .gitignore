@@ -1,0 +1,18 @@
+# Личные заметки владельца и материалы передачи: не публикуются
+docs/private/
+
+# Секреты
+.env
+.env.*
+!.env.example
+
+# Зависимости и результаты сборки
+node_modules/
+.cache/
+.next/
+next-env.d.ts
+*.tsbuildinfo
+out/
+coverage/
+playwright-report/
+test-results/
